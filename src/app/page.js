@@ -170,9 +170,8 @@ export default function Home() {
         </Stack>
         <Box>
           <Text as="p" className="mt-8 font-normal text-gray-400 dark:text-gray-400">
-            * Pueden comentar en el comentario qué les parece la idea. También pueden usar este
-            misma POC para probar libremente y probar en caso de que encuentren algún bug o cosa de
-            interés-
+            * Pueden responder al comentario sobre esta idea. También pueden usar este
+            misma POC para probar libremente y repotar algún bug o cosa de interés
           </Text>
         </Box>
       </Stack>
